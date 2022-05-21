@@ -1,4 +1,4 @@
-In this repo, I will be implementing on these following NLP topics:
+In this repo, I have implemented on the following NLP topics:
 
 
 Tokenization of Sentences and Words
